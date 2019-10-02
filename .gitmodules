@@ -1,0 +1,3 @@
+[submodule "py-wsi"]
+	path = py-wsi
+	url = https://github.com/ysbecca/py-wsi.git
